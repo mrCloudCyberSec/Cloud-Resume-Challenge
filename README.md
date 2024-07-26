@@ -21,6 +21,7 @@ Project is based on <a href="https://cloudresumechallenge.dev/docs/the-challenge
 
 - <b>Azure Storage</b>
 - <b>Azure Cosmos DB</b>
+- <b>Azure Content Delivery Network (Azure CDN)</b>
 
 <h2>Executive Summary</h2>
 
