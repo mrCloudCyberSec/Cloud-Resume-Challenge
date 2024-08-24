@@ -25,7 +25,7 @@ Project is based on <a href="https://cloudresumechallenge.dev/docs/the-challenge
 
 <h2>Software Used</h2>
 
--<b>Visual Studio Code</b>
--<b>Git</b>
--<b>Terraform</b>
+- <b>Visual Studio Code</b>
+- <b>Git</b>
+- <b>Terraform</b>
 
